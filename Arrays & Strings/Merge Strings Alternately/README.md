@@ -7,30 +7,30 @@ Return *the merged string.*
  
 **Example 1:**
 
-> **Input:** word1 = "abc", word2 = "pqr" 
-> **Output:** "apbqcr" 
-> **Explanation:** The merged string will be merged as so: 
-> word1:  a   b   c 
-> word2:    p   q  r 
-> merged: a p b q c r
+> **Input:** word1 = "abc", word2 = "pqr"<br>
+> **Output:** "apbqcr"<br>
+> **Explanation:** The merged string will be merged as so:<br>
+> word1:  a   b   c<br>
+> word2:    p   q  r<br>
+> merged: a p b q c r<br>
 
 **Example 2:**
 
-> **Input:** word1 = "ab", word2 = "pqrs" 
-> **Output:** "apbqrs" 
-> **Explanation:** Notice that as word2 is longer, "rs" is appended to the end. 
-> word1:  a    b  
-> word2:     p    q   r   s 
-> merged: a p b q   r   s
+> **Input:** word1 = "ab", word2 = "pqrs"<br>
+> **Output:** "apbqrs"<br>
+> **Explanation:** Notice that as word2 is longer, "rs" is appended to the end.<br>
+> word1:  a    b<br>
+> word2:     p    q   r   s<br>
+> merged: a p b q   r   s<br>
 
 **Example 3:**
 
-> **Input:** word1 = "abcd", word2 = "pq" 
-> **Output:** "apbqcd" 
-> **Explanation:** Notice that as word1 is longer, "cd" is appended to the end. 
-> word1:  a  b   c   d
-> word2:    p   q  
-> merged: a p b q c   d
+> **Input:** word1 = "abcd", word2 = "pq"<br>
+> **Output:** "apbqcd"<br>
+> **Explanation:** Notice that as word1 is longer, "cd" is appended to the end.<br>
+> word1:  a  b   c   d<br>
+> word2:    p   q<br>
+> merged: a p b q c   d<br>
 
  
 
