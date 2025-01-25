@@ -15,12 +15,12 @@ Given an integer array `nums` of size `n`, return the number with the value clos
 
 **Example 2:**
 
->**Input:** nums = [2,-1,1]
->**Output:** 1
->**Explanation:** 1 and -1 are both the closest numbers to 0, so 1 being larger is returned.
+> **Input:** nums = [2,-1,1]
+> **Output:** 1
+> **Explanation:** 1 and -1 are both the closest numbers to 0, so 1 being larger is returned.
  
 
 **Constraints:**
 
->`1 <= n <= 1000`
->`-105 <= nums[i] <= 105`
+- `1 <= n <= 1000`
+- `-105 <= nums[i] <= 105`
